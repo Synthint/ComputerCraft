@@ -9,5 +9,5 @@ while true do
     print(message)
     monitor.write(message)
     monitor.setCursorPos(5,1)
-    monitor.write(message)
+    monitor.write(message2)
 end
